@@ -29,3 +29,8 @@ Food I've cooked that I'd like to cook again
 - [ ] Sous vide green beans
 - [ ] Sous vide asparagus
 - [ ] Sous vide carrots
+- [ ] Lobster stock
+- [ ] Fondue
+- [ ] Cacio e Pepe al Limone
+- [ ] Fresh pasta al uovo
+- [ ] 
