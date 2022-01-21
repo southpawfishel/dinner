@@ -2,21 +2,22 @@
 Food I've cooked that I'd like to cook again
 
 # TODO
-- [ ] Impossible Chili
+- [x] Impossible Chili
 - [ ] Pesto sauce
 - [ ] Tomato sauce
 - [ ] French Onion Chicken
-- [ ] Pizza Dough
-- [ ] Pizza sauce
+- [x] Pizza Dough
+- [x] Pizza sauce
 - [ ] Grilled Cheese
 - [ ] Spinach paneer
 - [ ] Mushroom risotto
 - [ ] Cornbread
-- [ ] Corn tortillas
-- [ ] Miso Soup
+- [x] Corn tortillas
+- [x] Miso Soup
+- [x] Dashi stock
 - [ ] Dashi Duck soup
 - [ ] Green beans with impossible pork
-- [ ] Dinner rolls
+- [x] Dinner rolls
 - [ ] Japanese curry
 - [ ] Sous vide beef
 - [ ] Sous vide turkey
@@ -25,12 +26,14 @@ Food I've cooked that I'd like to cook again
 - [ ] Mapo tofu
 - [ ] Rosemary salt
 - [ ] French toast
-- [ ] Sous vide poached eggs
+- [x] Sous vide poached eggs
 - [ ] Sous vide green beans
 - [ ] Sous vide asparagus
-- [ ] Sous vide carrots
+- [x] Sous vide carrots
 - [ ] Lobster stock
 - [ ] Fondue
-- [ ] Cacio e Pepe al Limone
-- [ ] Fresh pasta al uovo
-- [ ] 
+- [x] Cacio e Pepe al Limone
+- [x] Fresh pasta al uovo
+- [ ] Focaccia
+- [ ] Skirt steak fajitas
+- [x] Tiramisu
