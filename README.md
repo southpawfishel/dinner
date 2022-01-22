@@ -3,13 +3,13 @@ Food I've cooked that I'd like to cook again
 
 # TODO
 - [x] Impossible Chili
-- [ ] Pesto sauce
-- [ ] Tomato sauce
-- [ ] French Onion Chicken
+- [x] Pesto sauce
+- [x] Tomato sauce
+- [x] French Onion Chicken
 - [x] Pizza Dough
 - [x] Pizza sauce
 - [ ] Grilled Cheese
-- [ ] Spinach paneer
+- [x] Spinach paneer
 - [ ] Mushroom risotto
 - [ ] Cornbread
 - [x] Corn tortillas
@@ -37,3 +37,4 @@ Food I've cooked that I'd like to cook again
 - [ ] Focaccia
 - [ ] Skirt steak fajitas
 - [x] Tiramisu
+- [ ] Bolognese
