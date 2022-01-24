@@ -8,26 +8,26 @@ Food I've cooked that I'd like to cook again
 - [x] French Onion Chicken
 - [x] Pizza Dough
 - [x] Pizza sauce
-- [ ] Grilled Cheese
+- [x] Grilled Cheese
 - [x] Spinach paneer
-- [ ] Mushroom risotto
-- [ ] Cornbread
+- [x] Mushroom risotto
+- [x] Cornbread
 - [x] Corn tortillas
 - [x] Miso Soup
 - [x] Dashi stock
 - [ ] Dashi Duck soup
-- [ ] Green beans with impossible pork
+- [x] Green beans with impossible pork
 - [x] Dinner rolls
 - [ ] Japanese curry
-- [ ] Sous vide beef
-- [ ] Sous vide turkey
-- [ ] Sous vide salmon
-- [ ] Sous vide duck breast
+- [x] Sous vide beef
+- [x] Sous vide turkey
+- [x] Sous vide salmon
+- [x] Sous vide duck breast
 - [ ] Mapo tofu
-- [ ] Rosemary salt
+- [x] Rosemary salt
 - [ ] French toast
 - [x] Sous vide poached eggs
-- [ ] Sous vide green beans
+- [x] Sous vide green beans
 - [ ] Sous vide asparagus
 - [x] Sous vide carrots
 - [ ] Lobster stock

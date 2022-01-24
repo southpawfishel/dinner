@@ -6,9 +6,9 @@ Taken from the wonderful book Made In India by Meera Sodha.
 
 ## Ingredients
 
-- [ ] 14oz. block of paneer
+- [ ] 14 oz. block of paneer
 - [ ] 1 pound spinach (can use frozen chopped or fresh)
-- [ ] 1 box of cherry tomatoes (these probably come in like 12-14oz. boxes at the grocery store),halved
+- [ ] 1 box of cherry tomatoes (these probably come in like 12-14 oz. boxes at the grocery store), halved
 - [ ] 3 yellow onions, roughly diced
 - [ ] 1x1 inch piece of ginger, peeled and grated or finely chopped
 - [ ] 3 cloves of garlic, finely chopped

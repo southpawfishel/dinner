@@ -4,7 +4,7 @@ Standard pasta sauce that I like to make when I'm in a hurry and want some spagh
 
 ## Ingredients
 
-- [ ] 28oz. can of crushed San Marzano tomatoes
+- [ ] 28 oz. can of crushed San Marzano tomatoes
 - [ ] a couple of cloves of garlic, finely chopped
 - [ ] 1 yellow onion, diced
 - [ ] 1 package of shiitake mushrooms, chopped roughly the same size as the onions

@@ -4,7 +4,7 @@ A very simple red sauce that doesn't need cooking. Could maybe use it for other 
 
 ## Ingredients
 
-- [ ] One 14.5oz can of tomatoes (I like fire roasted for a bit more flavor)
+- [ ] One 14.5 oz can of tomatoes (I like fire roasted for a bit more flavor)
 - [ ] 1-2 cloves of garlic
 - [ ] 1 Tbsp. olive oil
 - [ ] A generous amount of dried oregano (I normally use Sicilian)

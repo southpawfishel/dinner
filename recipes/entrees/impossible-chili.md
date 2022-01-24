@@ -4,10 +4,10 @@ My personal recipe for easy one-pot chili. Ever since Impossible Burger became a
 
 ## Ingredients
 
-- [ ] 12oz Impossible burger, or ground beef or pork if you want some meat
-- [ ] 28oz can of crushed tomatoes (fire roasted are great if you can get them)
-- [ ] 15oz can of black beans
-- [ ] 15oz can of pinto or pinquito beans
+- [ ] 12 oz. Impossible burger, or ground beef or pork if you want some meat
+- [ ] 28 oz. can of crushed tomatoes (fire roasted are great if you can get them)
+- [ ] 15 oz. can of black beans
+- [ ] 15 oz. can of pinto or pinquito beans
 - [ ] can of hatch chiles or 1-2 diced jalapeño peppers)
 - [ ] 1 yellow onion
 - [ ] 1 package of [southwest vegetable blend](https://www.instacart.com/image-server/932x932/filters:fill(FFF,true):format(webp)/www.instacart.com/assets/domains/product-image/file/large_861077fb-5d66-449e-b46f-d21681424740.jpeg) or similar veggie mix
