@@ -15,10 +15,10 @@ Food I've cooked that I'd like to cook again
 - [x] Corn tortillas
 - [x] Miso Soup
 - [x] Dashi stock
-- [ ] Dashi Duck soup
+- [x] Dashi Duck soup
 - [x] Green beans with impossible pork
 - [x] Dinner rolls
-- [ ] Japanese curry
+- [x] Japanese curry
 - [x] Sous vide beef
 - [x] Sous vide turkey
 - [x] Sous vide salmon
@@ -28,7 +28,7 @@ Food I've cooked that I'd like to cook again
 - [ ] French toast
 - [x] Sous vide poached eggs
 - [x] Sous vide green beans
-- [ ] Sous vide asparagus
+- [x] Sous vide asparagus
 - [x] Sous vide carrots
 - [ ] Lobster stock
 - [ ] Fondue
