@@ -23,7 +23,7 @@ Food I've cooked that I'd like to cook again
 - [x] Sous vide turkey
 - [x] Sous vide salmon
 - [x] Sous vide duck breast
-- [ ] Mapo tofu
+- [x] Mapo tofu
 - [x] Rosemary salt
 - [ ] French toast
 - [x] Sous vide poached eggs
@@ -34,7 +34,8 @@ Food I've cooked that I'd like to cook again
 - [ ] Fondue
 - [x] Cacio e Pepe al Limone
 - [x] Fresh pasta al uovo
-- [ ] Focaccia
-- [ ] Skirt steak fajitas
+- [x] Focaccia
+- [x] Skirt steak fajitas
 - [x] Tiramisu
 - [ ] Bolognese
+- [x] Chicken pot pie
