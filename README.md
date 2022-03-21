@@ -1,41 +1,19 @@
-# dinner
-Food I've cooked that I'd like to cook again
+# Dave Does Dinner
 
-# TODO
-- [x] Impossible Chili
-- [x] Pesto sauce
-- [x] Tomato sauce
-- [x] French Onion Chicken
-- [x] Pizza Dough
-- [x] Pizza sauce
-- [x] Grilled Cheese
-- [x] Spinach paneer
-- [x] Mushroom risotto
-- [x] Cornbread
-- [x] Corn tortillas
-- [x] Miso Soup
-- [x] Dashi stock
-- [x] Dashi Duck soup
-- [x] Green beans with impossible pork
-- [x] Dinner rolls
-- [x] Japanese curry
-- [x] Sous vide beef
-- [x] Sous vide turkey
-- [x] Sous vide salmon
-- [x] Sous vide duck breast
-- [x] Mapo tofu
-- [x] Rosemary salt
+Food I've cooked that I'd like to cook again. I only tend to add stuff to this
+list if I've cooked it at least twice and enjoyed it each time. This is kind of
+my digital version of that notebook that your grandma would keep with all her
+recipes in it.
+
+Everything here is categorized according to my own weird system that may not
+make sense. A lot of things here are just components that can be used within
+larger dishes or mixed and matched.
+
+If you happen to be reading this, hope you find it useful.
+
+## TODO
+
 - [ ] French toast
-- [x] Sous vide poached eggs
-- [x] Sous vide green beans
-- [x] Sous vide asparagus
-- [x] Sous vide carrots
 - [ ] Lobster stock
 - [ ] Fondue
-- [x] Cacio e Pepe al Limone
-- [x] Fresh pasta al uovo
-- [x] Focaccia
-- [x] Skirt steak fajitas
-- [x] Tiramisu
 - [ ] Bolognese
-- [x] Chicken pot pie
