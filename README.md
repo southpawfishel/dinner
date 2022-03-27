@@ -16,4 +16,3 @@ If you happen to be reading this, hope you find it useful.
 - [ ] French toast
 - [ ] Lobster stock
 - [ ] Fondue
-- [ ] Bolognese
