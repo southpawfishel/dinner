@@ -1,19 +1,27 @@
 # Pesto
 
+This is a new and improved method taken from a cooking class I took when visiting Liguria in 2023.
+
 ## Ingredients
 
-- [ ] 2 cups of basil leaves
-- [ ] 3 cloves of garlic
-- [ ] 1/2 cup of olive oil
-- [ ] 1/3 cup of pine nuts
-- [ ] 1/2 cup of grated pecorino Romano or Parmigiano
+- [ ] 50 grams fresh basil, stems removed
+- [ ] 1 clove of garlic
+- [ ] 1 Tbsp pine nuts
+- [ ] 1.5 Tbsp freshly grated Parmigiano
+- [ ] 0.5 Tbsp freshly grated Pecorino
+- [ ] Olive oil
+- [ ] Salt
+- [ ] Mortar and Pestle (you could use a blender but it will taste better crushing the basil rather than cutting it)
 
 ## Recipe
 
-1. Toast the pine nuts in a dry skillet for a minute over medium heat or just barely until they start to turn a bit brown and aromatic
-1. Place the basil and toasted nuts in the bowl of your food processor
-1. Pulse the basil and pine nuts until they start to form a paste
-1. Add the garlic and cheese and pulse a few more times, scraping the bowl to ensure that all the ingredients are well mixed into a paste
-1. Change from pulsing to just leaving the food processor running, and slowly drizzle in the olive oil
-1. One all the olive oil is incorporated, scrape down the sides again and pulse for a few seconds
-1. Store in an airtight container and refrigerate or freeze
+1. Crush the garlic with a pinch of salt to help break it up
+1. Add the pine nuts and continue to crush but not completely to a paste
+1. Add the leaves slowly in batches, crushing them. Once they're all integrated, use a circular motion around the edge of the pestle to form a smooth paste.
+1. Once you've reached the desired consistency, add the two cheeses and mix, then slowly incorporate olive oil until you reach the desired pesto consistency.
+
+## Serving with Pasta
+
+Since Pesto is heavy in oil, it can have the tendency to split on you and leave an oily mess on the bottom of your plate or bowl if you try to stir it into pasta that's in a hot sauce pan, like you might do with many other pasta sauces.  
+
+In order to combat this, its best to cook your pasta (preferably trofie pasta if you can find or make that shape) and drain it then reserve it off to the side. In a bowl, mix your pesto with a bit of hot, but not boiling water. I use somewhere around 140 to 150 degrees Fahrenheit. If you have an electric kettle with adjustable temperature, it's ideal for this purpose. Mix your pesto with water in your bowl, until you achieve something thats loose but not overly watery (you can always add more water but you can never take it away), then add the cooked pasta and stir to coat the pasta. This should result in a sauce that adheres nicely to the pasta without splitting.
